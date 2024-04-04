@@ -1,7 +1,7 @@
 import React from "react";
 
 const Navbar = () => {
-  return <div>Navbar</div>;
+  return <nav className="flex-between">Navbar</nav>;
 };
 
 export default Navbar;
